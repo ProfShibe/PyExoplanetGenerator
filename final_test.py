@@ -1,9 +1,5 @@
 # Exoplanet Simulator
-# by Dalton
 # https://github.com/ProfShibe
-# edX: DTM_1939
-# Boerne, TX, USA. 8/8/2024
-
 
 import xml.etree.ElementTree as ET, urllib.request, gzip, io
 from ursina import *

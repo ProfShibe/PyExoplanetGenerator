@@ -6,3 +6,8 @@
 #### Jupiter was too noticeable with the giant red spot, and these specific planets blend well with different colors. Earth is unusable due to continents and the Moon was very obvious too.
 
 #### The test files should ensure that certain functions are working properly. I'm unaware of how to run tests on ursina other than directly using it, but this is also my first time using it so I definitely could be missing something.
+
+# How To Install
+
+#### pip install ursina
+#### Run and enter the exact name of an Exoplanet in the CLI/Terminal. Will then execute a window with the Planet and any known information.

@@ -9,5 +9,5 @@
 # How To Install
 
 #### pip (or pip3) install ursina
-#### On some versions of linux you may need to use pipx or a virtual environment now to install Ursina
+#### On some distros of linux (Ubuntu/Arch) you may need to use a virtual environment now to install Ursina
 #### Run and enter the exact name of an Exoplanet in the CLI/Terminal. Will then execute a window with the Planet and any known information.
